@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1499977319 source:c:\c, c++\theironbank\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
